@@ -12,6 +12,7 @@ The goal is to simulate a real-world data engineering workflow:
 5. Visualize insights
 
 
+
 📊 Data Pipeline (pipeline.py)
 
 The pipeline performs structured data validation and transformation.
@@ -30,6 +31,7 @@ The pipeline performs structured data validation and transformation.
     Validated for monotonic and uniqueness where necessary
 
 🔹 Step 4 — Export Clean Data
+
   
 
 📈 Data Analysis (analysis.py)
@@ -43,6 +45,8 @@ After cleaning, visualization is performed using Matplotlib.
 
 <img src="images/role_count_bar.png" alt="role_count_bar" title="role_count_bar" width="400">
 
+
+
 🔹 Noise Type vs Focus Score
 
 For each background noise type:
@@ -54,10 +58,15 @@ For each background noise type:
 <img src="images/noise_focus_plot.png" alt="noise_focus_plot" title="noise_focus_plot" width="400">
 
 
+
 🛠️ Tech Stack
+
   Python
+  
   Pandas
+  
   NumPy
+  
   Matplotlib
 
 
@@ -74,7 +83,7 @@ This project is designed to:
 
 
 📌 Future Improvements
-  Add logging instead of print statements
+Add logging instead of print statements
   
   Introduce unit testing
   
