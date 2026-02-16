@@ -40,7 +40,7 @@ After cleaning, visualization is performed using Matplotlib.
   Aggregates participant roles
   Displays frequency distribution via bar chart
 
-<img src="images/role_count.png" width="600">
+<img src="images/role_count_bar.png" alt="role_count_bar" title="role_count_bar" width="400">
 
 🔹 Noise Type vs Focus Score
 For each background noise type:
@@ -49,7 +49,7 @@ For each background noise type:
   Generates individual subplots
   Displays score distribution trends
 
-<img src="images/noise_focus.png" width="600">
+<img src="images/noise_focus_plot.png" alt="noise_focus_plot" title="noise_focus_plot" width="400">
 
 
 🛠️ Tech Stack
