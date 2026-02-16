@@ -37,12 +37,14 @@ The pipeline performs structured data validation and transformation.
 After cleaning, visualization is performed using Matplotlib.
 
 🔹 Role Distribution
+
   Aggregates participant roles
   Displays frequency distribution via bar chart
 
 <img src="images/role_count_bar.png" alt="role_count_bar" title="role_count_bar" width="400">
 
 🔹 Noise Type vs Focus Score
+
 For each background noise type:
   Groups dataset
   Counts perceived focus scores
