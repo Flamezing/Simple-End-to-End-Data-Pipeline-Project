@@ -63,15 +63,23 @@ For each background noise type:
 
 🎯 Project Purpose
 This project is designed to:
+
   Practice structured data engineering workflow
+  
   Strengthen data validation logic design
+  
   Demonstrate end-to-end reproducibility
+  
   Serve as a portfolio-ready project for internships
 
 
 📌 Future Improvements
   Add logging instead of print statements
+  
   Introduce unit testing
+  
   Convert pipeline into reusable class structure
+  
   Add configuration file support
+  
   Containerize with Docker
